@@ -3,4 +3,4 @@ Dateien für das Modul "Statistische Methoden der Datenanalyse" 2021/22 an der T
 
 Viele Dateien von diesem Modul sind auf einem anderen privaten GitLab gespeichert, deswegen sind die Dateien hier nicht vollständig.
 
-'$ conda env create -f environment.yaml'
+``$ conda env create -f environment.yaml``
